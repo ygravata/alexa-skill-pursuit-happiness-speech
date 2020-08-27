@@ -1,0 +1,29 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "pt-BR": {
+          "summary": "Se inspire com o discurso de Will Smith no filme À Procura da Felicidade",
+          "examplePhrases": [
+            "Alexa, abre o discurso de À Procura da Felicidade",
+            "Alexa, abre o discurso do Will Smith"
+          ],
+          "name": "Discurso de À Procura da Felicidade",
+          "description": "Discurso de À Procura da Felicidade, por Will Smith."
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:019315160667:function:ask-pursuitofhappinessspee-default-default-1598551676437"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}

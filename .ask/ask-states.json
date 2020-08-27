@@ -1,0 +1,30 @@
+{
+  "askcliStatesVersion": "2020-03-31",
+  "profiles": {
+    "default": {
+      "skillInfrastructure": {
+        "@ask-cli/lambda-deployer": {
+          "deployState": {
+            "default": {
+              "iamRole": "arn:aws:iam::019315160667:role/ask-lambda-PursuitofHappinessSpeech-1598551673879",
+              "lambda": {
+                "arn": "arn:aws:lambda:us-east-1:019315160667:function:ask-pursuitofhappinessspee-default-default-1598551676437",
+                "lastModified": "2020-08-27T19:05:18.486+0000",
+                "revisionId": "0ec3f731-e74a-4c4a-b2de-a5c5c3daf8ed"
+              }
+            }
+          }
+        }
+      },
+      "skillId": "amzn1.ask.skill.a176535f-4848-4780-ada0-d37c028d0a9a",
+      "skillMetadata": {
+        "lastDeployHash": "7MwCO/rO/h8BJUUDFb6dIK76a1k="
+      },
+      "code": {
+        "default": {
+          "lastDeployHash": "xfsn8FFN64AW58GPY/aPK+Bbzko="
+        }
+      }
+    }
+  }
+}
